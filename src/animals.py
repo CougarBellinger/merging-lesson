@@ -23,6 +23,9 @@ class Dog(Animal):
     def fetch(self):
         pass
 
+class Cougar(Animal):
+    noise = "rawrxd"
+
 # Add another animal below.  Come up with something unique
 # Feel free to add functions or whatever you want.  If you don't feel
 # confident in your python, you just copy and paste the bird and change
